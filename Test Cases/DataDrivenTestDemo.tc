@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTestDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51a58dc5-b88d-4176-8480-b8d34c68e6bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d276de8d-0df6-4648-9e20-99303f6ae6d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1be75f19-6d6c-4463-bd3b-464405a24323</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb47cb3d-7061-4cc9-a442-79db755c0f71</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PH'</defaultValue>
+      <description></description>
+      <id>d276de8d-0df6-4648-9e20-99303f6ae6d6</id>
+      <masked>false</masked>
+      <name>countryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Manila'</defaultValue>
+      <description></description>
+      <id>1be75f19-6d6c-4463-bd3b-464405a24323</id>
+      <masked>false</masked>
+      <name>capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pesos'</defaultValue>
+      <description></description>
+      <id>cb47cb3d-7061-4cc9-a442-79db755c0f71</id>
+      <masked>false</masked>
+      <name>currency</name>
+   </variable>
+</TestCaseEntity>
